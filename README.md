@@ -2,3 +2,7 @@
 
 The purpose of this repository is to practice my frontend skills and keep track
 of which challenges I've completed.
+
+### Challenges
+
+-   [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
