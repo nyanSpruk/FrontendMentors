@@ -5,4 +5,4 @@ of which challenges I've completed.
 
 ### Challenges
 
--   [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+-   [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
