@@ -15,13 +15,17 @@ body {
 .card {
     background-color: hsl(0, 0%, 100%);
     /* height: 600px; */
-    width: 260px;
+    width: 290px;
     /* align-items: center; */
     /* justify-content: center; */
     display: flex;
     padding: 14px;
     flex-direction: column;
     border-radius: 14px;
+}
+
+.card_content {
+    padding: 14px;
 }
 
 .image {
