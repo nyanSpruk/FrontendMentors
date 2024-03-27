@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import ResultsSummary from "./pages/ResultsSummary";
+import ResultsSummary from "./pages/ResultsSummary/ResultsSummary";
 import Main from "./pages/Main";
 
 function App() {
