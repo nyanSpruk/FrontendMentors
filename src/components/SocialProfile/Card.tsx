@@ -2,14 +2,14 @@ import Button from "./Button";
 
 function Card() {
   return (
-    <div className="font-inter m-6 flex w-full flex-col items-center justify-center gap-6 rounded-2xl bg-[hsl(0,0%,12%)] p-6 text-white sm:max-w-[380px] sm:p-8">
+    <div className="font-inter m-6 flex w-full flex-col items-center justify-center gap-6 rounded-2xl bg-[hsl(0,0%,12%)] p-6 text-white sm:max-w-[380px] sm:p-8 sm:pt-12">
       <img
         src="/socialProfile/avatar-jessica.jpeg"
         alt="Jessica Randal"
         className="size-[5.5rem] rounded-full"
       />
       <div className="flex flex-col items-center justify-center gap-1">
-        <h1 className="text-[1.6rem]">Jessica Randall</h1>
+        <h1 className="text-[1.6rem] font-semibold">Jessica Randall</h1>
         <p className="text-sm font-bold text-[hsl(75,94%,57%)]">
           London, United Kingdom
         </p>
