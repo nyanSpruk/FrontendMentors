@@ -15,10 +15,10 @@ function Main() {
             Results Summary
           </Link>
           <Link
-            to="/project2"
+            to="/socialProfile"
             className="rounded-lg px-6 py-3 text-xl font-semibold text-blue-700 transition duration-150 ease-in-out hover:bg-blue-100 hover:text-blue-900"
           >
-            Project 2
+            Social Profile
           </Link>
           <Link
             to="/project3"

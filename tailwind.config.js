@@ -5,6 +5,7 @@ export default {
         extend: {
             fontFamily: {
                 hankengrotesk: ["Hanken Grotesk", "sans-serif"],
+                "inter": ["Inter", "sans-serif"],
             },
         },
     },
