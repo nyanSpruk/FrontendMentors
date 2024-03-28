@@ -2,7 +2,7 @@ import Button from "./Button";
 
 function Card() {
   return (
-    <div className="font-inter m-6 flex w-full flex-col items-center justify-center gap-6 rounded-2xl bg-[hsl(0,0%,12%)] p-6 text-white sm:max-w-[390px] sm:p-10">
+    <div className="font-inter m-6 flex w-full flex-col items-center justify-center gap-6 rounded-2xl bg-[hsl(0,0%,12%)] p-6 text-white sm:max-w-[380px] sm:p-8">
       <img
         src="/socialProfile/avatar-jessica.jpeg"
         alt="Jessica Randal"
@@ -14,7 +14,7 @@ function Card() {
           London, United Kingdom
         </p>
       </div>
-      <p className="text-[0.875rem] font-extralight">
+      <p className="text-[0.875rem] font-normal">
         "Front-end developer and avid reader."
       </p>
 
