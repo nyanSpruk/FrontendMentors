@@ -6,6 +6,7 @@ export default {
             fontFamily: {
                 hankengrotesk: ["Hanken Grotesk", "sans-serif"],
                 "inter": ["Inter", "sans-serif"],
+                "outfit": ["Outfit", "sans-serif"],
             },
         },
     },

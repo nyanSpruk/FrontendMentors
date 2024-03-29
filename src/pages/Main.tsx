@@ -21,10 +21,10 @@ function Main() {
             Social Profile
           </Link>
           <Link
-            to="/project3"
+            to="/qrCode"
             className="rounded-lg px-6 py-3 text-xl font-semibold text-blue-700 transition duration-150 ease-in-out hover:bg-blue-100 hover:text-blue-900"
           >
-            Project 3
+            QR Code
           </Link>
         </div>
       </nav>
