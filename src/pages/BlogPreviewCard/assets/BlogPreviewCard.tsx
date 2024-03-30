@@ -1,7 +1,7 @@
 function BlogPreviewCard() {
   return (
     <div className="flex h-screen items-center justify-center bg-[hsl(47,88%,63%)]">
-      <div className="sm:h- m-6 flex w-full flex-col gap-6 rounded-2xl border border-black bg-white stroke-2 p-6 drop-shadow-[8px_8px_0_rgba(0,0,0,1)] sm:w-96">
+      <div className="sm:h- m-6 flex w-full flex-col gap-6 rounded-[16px] border border-black bg-white stroke-2 p-6 drop-shadow-[8px_8px_0_rgba(0,0,0,1)] sm:w-96">
         <img
           className="h-[200px] rounded-xl object-cover"
           src="/blogPreviewCard/illustration-article.svg"

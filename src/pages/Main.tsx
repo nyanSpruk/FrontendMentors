@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Main() {
   return (
     <div className="flex h-screen items-center justify-center">
-      <nav className="w-1/3 rounded-2xl bg-slate-100 p-8 shadow-2xl">
+      <nav className="m-4 w-full rounded-2xl bg-slate-100 p-8 shadow-2xl sm:w-[32rem]">
         <div className="mb-10 text-center text-4xl font-bold text-gray-800">
           Projects
         </div>
