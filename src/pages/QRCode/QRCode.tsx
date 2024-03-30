@@ -1,9 +1,9 @@
 function QRCode() {
   return (
     <div className="flex h-screen items-center justify-center bg-[hsl(212,45%,89%)]">
-      <div className="grid h-[497px] w-80 rounded-xl bg-white p-4 shadow-lg">
+      <div className="grid h-[497px] w-80 rounded-2xl bg-white p-4 shadow-lg">
         <img className="rounded-xl" src="/qrcode/image-qr-code.png"></img>
-        <div className="font-outfit grid gap-2 p-3">
+        <div className="font-outfit grid gap-2 p-3 pt-4">
           <h1 className="text-center text-[1.375rem] font-bold leading-7 text-[hsl(218,44%,22%)]">
             Improve your front-end skills by building projects
           </h1>

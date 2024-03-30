@@ -7,6 +7,7 @@ export default {
                 hankengrotesk: ["Hanken Grotesk", "sans-serif"],
                 "inter": ["Inter", "sans-serif"],
                 "outfit": ["Outfit", "sans-serif"],
+                "figtree": ["Figtree", "sans-serif"],
             },
         },
     },

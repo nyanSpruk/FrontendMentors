@@ -26,6 +26,12 @@ function Main() {
           >
             QR Code
           </Link>
+          <Link
+            to="/blogPreviewCard"
+            className="rounded-lg px-6 py-3 text-xl font-semibold text-blue-700 transition duration-150 ease-in-out hover:bg-blue-100 hover:text-blue-900"
+          >
+            Blog Preview Card
+          </Link>
         </div>
       </nav>
     </div>

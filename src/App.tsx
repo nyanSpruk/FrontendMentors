@@ -4,6 +4,7 @@ import ResultsSummary from "./pages/ResultsSummary/ResultsSummary";
 import Main from "./pages/Main";
 import SocialProfile from "./pages/SocialProfile/SocialProfile";
 import QRCode from "./pages/QRCode/QRCode";
+import BlogPreviewCard from "./pages/BlogPreviewCard/assets/BlogPreviewCard";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="resultsSummary" element={<ResultsSummary />} />
         <Route path="socialProfile" element={<SocialProfile />} />
         <Route path="qrCode" element={<QRCode />} />
+        <Route path="blogPreviewCard" element={<BlogPreviewCard />} />
       </Routes>
     </div>
   );
