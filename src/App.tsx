@@ -5,6 +5,7 @@ import Main from "./pages/Main";
 import SocialProfile from "./pages/SocialProfile/SocialProfile";
 import QRCode from "./pages/QRCode/QRCode";
 import BlogPreviewCard from "./pages/BlogPreviewCard/assets/BlogPreviewCard";
+import RecipePage from "./pages/RecipePage/RecipePage";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="socialProfile" element={<SocialProfile />} />
         <Route path="qrCode" element={<QRCode />} />
         <Route path="blogPreviewCard" element={<BlogPreviewCard />} />
+        <Route path="recipePage" element={<RecipePage />} />
       </Routes>
     </div>
   );

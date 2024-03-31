@@ -8,6 +8,7 @@ export default {
                 "inter": ["Inter", "sans-serif"],
                 "outfit": ["Outfit", "sans-serif"],
                 "figtree": ["Figtree", "sans-serif"],
+                "young_serif": ["Young Serif", "serif"],
             },
         },
     },
