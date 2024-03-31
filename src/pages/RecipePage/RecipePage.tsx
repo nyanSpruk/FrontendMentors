@@ -1,7 +1,7 @@
 function RecipePage() {
   return (
     <div className="grid h-screen place-content-center bg-[hsl(30,54%,90%)]">
-      <div className="grid h-screen rounded-3xl rounded-b-none bg-white text-[hsl(14,45%,36%)] marker:text-[0.75rem] marker:font-bold sm:h-fit sm:w-[800px] sm:gap-8 sm:rounded-3xl sm:p-8">
+      <div className="grid h-screen rounded-3xl rounded-b-none bg-white text-[hsl(14,45%,36%)] marker:text-[0.75rem] marker:font-bold sm:w-[800px] sm:gap-8 sm:rounded-3xl sm:p-8">
         <img
           className="sm:rounded-2xl"
           src="/recipePage/image-omelette.jpeg"
